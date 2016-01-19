@@ -16,12 +16,9 @@ body {
 
 .gw-heading__text {
     font-size: 70px;
-    color: gold;
-    transition: font-size 2s, color 2s, transform 2s;
+    color: gold;    
 }
 
-.gw-heading__text:hover {
-    color: coral;
-    font-size: 140px;
-    transform: rotate(180deg);
+.gw-navbar__options {
+    display: none;
 }
